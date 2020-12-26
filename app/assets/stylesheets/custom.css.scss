@@ -38,6 +38,14 @@
     font-weight: bold;
 }
 
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+  }
+
 .btn-xlarge {
     font-size: 1.7em;
     background-color: black;
